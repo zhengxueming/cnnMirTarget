@@ -1,0 +1,70 @@
+fold 1
+Sensitivity/recall on the test data is :0.9482594182164997
+specifity on the test data is :0.9701975476839237
+accuracy on the test data is :0.9644246455013176
+f1_score on the test data is :0.9334585142588897
+mcc on the test data is :0.9093954701202904
+
+fold 2
+Sensitivity/recall on the test data is :0.9153627311522048
+specifity on the test data is :0.98080204778157
+accuracy on the test data is :0.9634834985569081
+f1_score on the test data is :0.9299132947976878
+mcc on the test data is :0.9054405955819868
+
+fold 3
+Sensitivity/recall on the test data is :0.9648833372613717
+specifity on the test data is :0.9528003420265071
+accuracy on the test data is :0.9560170661312586
+f1_score on the test data is :0.921138485768928
+mcc on the test data is :0.8924925498035143
+
+fold 4
+Sensitivity/recall on the test data is :0.8828235294117647
+specifity on the test data is :0.9904175222450377
+accuracy on the test data is :0.9617266909273434
+f1_score on the test data is :0.9248212965245255
+mcc on the test data is :0.9010617739422777
+
+fold 5
+Sensitivity/recall on the test data is :0.9705605275553462
+specifity on the test data is :0.9518474170372905
+accuracy on the test data is :0.9568327268164136
+f1_score on the test data is :0.9229563269876819
+mcc on the test data is :0.8951494197374805
+
+fold 6
+Sensitivity/recall on the test data is :0.9732696897374702
+specifity on the test data is :0.9415219611848825
+accuracy on the test data is :0.9498682394277826
+f1_score on the test data is :0.9107761027359017
+mcc on the test data is :0.879619443822137
+
+fold 7
+Sensitivity/recall on the test data is :0.9450915141430949
+specifity on the test data is :0.9739152672406445
+accuracy on the test data is :0.9663069393901368
+f1_score on the test data is :0.9367416656850042
+mcc on the test data is :0.9138488899048854
+
+fold 8
+Sensitivity/recall on the test data is :0.9261458085965328
+specifity on the test data is :0.9785964014667008
+accuracy on the test data is :0.9647383611494541
+f1_score on the test data is :0.9327911982779239
+mcc on the test data is :0.908935210023155
+
+fold 9
+Sensitivity/recall on the test data is :0.9419228892142508
+specifity on the test data is :0.9711993243243243
+accuracy on the test data is :0.9636717279457899
+f1_score on the test data is :0.9302325581395349
+mcc on the test data is :0.9058073558465405
+
+fold 10
+Sensitivity/recall on the test data is :0.9351939451277199
+specifity on the test data is :0.974466268146883
+accuracy on the test data is :0.9640481867235537
+f1_score on the test data is :0.9324372125928546
+mcc on the test data is :0.907952412833713
+
